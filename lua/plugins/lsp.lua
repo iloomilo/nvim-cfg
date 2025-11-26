@@ -19,7 +19,6 @@ local vtsls_config = {
   },
   filetypes = tsserver_filetypes,
 }
-
 return {
   {
     "mason-org/mason.nvim",

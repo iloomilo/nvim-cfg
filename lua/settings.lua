@@ -6,3 +6,6 @@ vim.opt.shiftwidth = 2
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
 
+vim.o.relativenumber = true
+
+
