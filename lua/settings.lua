@@ -6,5 +6,4 @@ vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
 vim.o.relativenumber = true
 vim.o.signcolumn = "yes"
-
-
+vim.keymap.set("i", "jj", "<ESC>")
